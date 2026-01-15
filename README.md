@@ -33,10 +33,17 @@ I am a Software Developer with a passion for building scalable, high-performance
 - **Tech:** Python, TensorFlow, MediaPipe, OpenCV.
 
 ### 📈 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=farihaNaqvi&show_icons=true&theme=radical" alt="Fariha's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farihaNaqvi&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=farihaNaqvi&show_icons=true&theme=radical&cache_seconds=86400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farihaNaqvi&layout=compact&theme=radical&cache_seconds=86400" />
+    </td>
+  </tr>
+</table>
 
 ---
 
