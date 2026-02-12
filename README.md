@@ -34,9 +34,9 @@ I am a Software Developer with a passion for building scalable, high-performance
 
 ### 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=farihaNaqvi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farihaNaqvi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=farihaNaqvi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farihaNaqvi&layout=compact&theme=radical)
 
 
 ---
